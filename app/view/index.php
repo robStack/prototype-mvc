@@ -1,0 +1,1 @@
+<h1>Mensaje: <?= $message ?></h1>
