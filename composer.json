@@ -1,6 +1,6 @@
 {
     "require": {
-        "illuminate/database":"4.2.*",
+        "illuminate/database":"4.1.*",
         "cartalyst/sentry": "2.1.*",
         "ircmaxell/password-compat": "1.0.*"
     }
